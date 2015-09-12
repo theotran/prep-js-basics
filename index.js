@@ -1,13 +1,18 @@
 /* create variables */
-
+	var = "theotran" 
 /**
 * #1
 * Variables with a String as their value
-*
+
+
+*	
 * declare variables named `first_name`, `last_name`, and `birth_place`.
 * Fill out the values for these with your own data or make it up. It should contain a String
 **/
 
+	var first_name = "Theo";
+	var last_name = "Tran";
+	var birth_place = "Honolulu";
 
 
 /**
@@ -18,7 +23,9 @@
 * Their values should be a Number
 **/
 
-
+	var favorite_number = 21
+	var current_year = 2015
+	var that_one_armin_song = 2014
 
 /**
 * #3
@@ -28,7 +35,9 @@
 * Their values should be a Boolean
 **/
 
-
+	var isdaytime = false
+	var isLeftHanded = true
+	var isHappyCoding = true
 
 /**
 * #4
