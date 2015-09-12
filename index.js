@@ -25,7 +25,7 @@
 
 	var favorite_number = 21
 	var current_year = 2015
-	var that_one_armin_song = 2014
+	var that_one_prince_song = 1999
 
 /**
 * #3
