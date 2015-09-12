@@ -1,5 +1,5 @@
 /* create variables */
-	var = "theotran" 
+	
 /**
 * #1
 * Variables with a String as their value
@@ -23,9 +23,9 @@
 * Their values should be a Number
 **/
 
-	var favorite_number = 21
-	var current_year = 2015
-	var that_one_prince_song = 1999
+	var favorite_number = 21;
+	var current_year = 2015;
+	var that_one_prince_song = 1999;
 
 /**
 * #3
@@ -35,9 +35,10 @@
 * Their values should be a Boolean
 **/
 
-	var isdaytime = false
-	var isLeftHanded = true
-	var isHappyCoding = true
+	var isdaytime = false;
+	var isLeftHanded = true;
+	var inhawaii = true;
+	var isHappyCoding = true;
 
 /**
 * #4
@@ -46,8 +47,9 @@
 * declare variables named `enrolledAtDevLeague` and `completedFridayPrep`
 * Their values should be a Null value
 **/
-
-
+	var enrolledAtDevLeague = null;	
+	var completedFridayPrep = null;
+	
 /**
 * #5a
 * Variables with an Array for it's value. This Array will contain:
