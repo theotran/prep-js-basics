@@ -49,6 +49,7 @@
 **/
 	var enrolledAtDevLeague = null;	
 	var completedFridayPrep = null;
+
 	
 /**
 * #5a
@@ -58,7 +59,7 @@
 * which can be found along the west coast of The United States.
 **/
 
-
+	var west_coast = ["california", "Nevada", "Washinton", "Oregon", "Utah"]
 
 /**
 * #5b
@@ -69,7 +70,7 @@
 **/
 
 
-
+	var even_numbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34,]
 /**
 * #6a Arithmetic
 */
